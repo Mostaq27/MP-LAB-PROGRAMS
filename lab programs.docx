@@ -1,0 +1,318 @@
+EGACY_MEGASR\0000]
+>>>  Section start 2013/11/16 01:00:18.954
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_MEGASR\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:18.954
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_LSI_SAS\0000]
+>>>  Section start 2013/11/16 01:00:19.110
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_LSI_SAS\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:19.126
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_LSI_SCSI\0000]
+>>>  Section start 2013/11/16 01:00:19.282
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_LSI_SCSI\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:19.282
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_HPSAMD\0000]
+>>>  Section start 2013/11/16 01:00:19.454
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_HPSAMD\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:19.454
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_MSAHCI\0000]
+>>>  Section start 2013/11/16 01:00:19.610
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_MSAHCI\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:19.610
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_PCIIDE\0000]
+>>>  Section start 2013/11/16 01:00:19.781
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_PCIIDE\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:19.781
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_COMPBATT\0000]
+>>>  Section start 2013/11/16 01:00:19.968
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_COMPBATT\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:19.968
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_VMBUS\0000]
+>>>  Section start 2013/11/16 01:00:20.156
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_VMBUS\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:20.187
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_SBP2PORT\0000]
+>>>  Section start 2013/11/16 01:00:20.327
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_SBP2PORT\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:20.327
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_WD\0000]
+>>>  Section start 2013/11/16 01:00:20.530
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_WD\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:20.530
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_NVRAID\0000]
+>>>  Section start 2013/11/16 01:00:20.670
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_NVRAID\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:20.670
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REMOVE - ROOT\LEGACY_ISAPNP\0000]
+>>>  Section start 2013/11/16 01:00:20.858
+      cmd: C:\Windows\system32\oobe\setup.exe
+!    dvi: Query-removal was vetoed by Root\LEGACY_ISAPNP\0000 (veto type 1: PNP_VetoLegacyDevice)
+!    dvi: Setting needs reboot
+!    dvi: Query-and-Remove failed: 0x17: CR_REMOVE_VETOED.
+<<<  Section end 2013/11/16 01:00:20.858
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Build Driver List - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.709
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+     cpy: Policy is set to make all digital signatures equal.
+<<<  Section end 2013/11/16 01:01:04.912
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Select Best Driver - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.912
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:04.912
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REGISTERDEVICE - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.912
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:04.928
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_ALLOW_INSTALL - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.928
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:04.943
+<<<  [Exit status: SUCCESS (DI_DO_DEFAULT)]
+
+
+>>>  [DIF_INSTALLDEVICEFILES - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.943
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:04.959
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REGISTER_COINSTALLERS - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.959
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:04.959
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_INSTALLINTERFACES - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.959
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:04.959
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_INSTALLDEVICE - ROOT\*ISATAP\0000]
+>>>  Section start 2013/11/16 01:01:04.959
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+     cci: NdisCoinst: Guid of the adapter is {96FF7796-F00F-4035-AC5F-2E2D6A909A71}
+     cci: NdisCoinst: IfType 131, Characteristics 0x9, IsIrdaDevice 0, PhysicalMediaType 0, MediaType 15, IsBridge 0, FoundGuidInDownlevel 0, EnableDhcp 2
+     cci: NdisCoinst: Connection name is Local Area Connection* 9
+     cci: NdisCoinst: Allocated NetLuidIndex is 4
+     dvi: {Writing Device Properties}
+!    dvi: Device restart was skipped becasuse the DI_DONOTCALLCONFIGMG  flag was set.
+<<<  Section end 2013/11/16 01:01:05.645
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_DESTROYPRIVATEDATA]
+>>>  Section start 2013/11/16 01:01:05.645
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:01:05.645
+<<<  [Exit status: SUCCESS]
+
+!    cci: !NCI: Op=BIND, Layer=NDIS, Upper=Tcpip6 Lower=\Device\{96FF7796-F00F-4035-AC5F-2E2D6A909A71}, Error=00000019
+
+[Boot Session: 2013/11/16 01:02:43.359]
+
+>>>  [Build Driver List - PCI\VEN_8086&DEV_29C2&SUBSYS_29C28086&REV_10\3&11583659&0&10]
+>>>  Section start 2013/11/16 01:04:18.597
+      cmd: "C:\Windows\system32\winsat.exe" moobe -cancelevent 036e6ace-c4af-45e0-8e08-a1939332e04a -moobegoevent 0a579855-7a4c-4ca3-8d41-31f02fec0db9
+     cpy: Policy is set to make all digital signatures equal.
+<<<  Section end 2013/11/16 01:04:19.284
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_SELECTBESTCOMPATDRV - PCI\VEN_8086&DEV_29C2&SUBSYS_29C28086&REV_10\3&11583659&0&10]
+>>>  Section start 2013/11/16 01:04:19.284
+      cmd: "C:\Windows\system32\winsat.exe" moobe -cancelevent 036e6ace-c4af-45e0-8e08-a1939332e04a -moobegoevent 0a579855-7a4c-4ca3-8d41-31f02fec0db9
+<<<  Section end 2013/11/16 01:04:19.330
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_DESTROYPRIVATEDATA]
+>>>  Section start 2013/11/16 01:04:19.330
+      cmd: "C:\Windows\system32\winsat.exe" moobe -cancelevent 036e6ace-c4af-45e0-8e08-a1939332e04a -moobegoevent 0a579855-7a4c-4ca3-8d41-31f02fec0db9
+<<<  Section end 2013/11/16 01:04:19.330
+<<<  [Exit status: SUCCESS (DI_DO_DEFAULT)]
+
+
+>>>  [SetupInstallFromInfSection - DefaultInstallSettings]
+>>>  Section start 2013/11/16 01:04:55.257
+      cmd: C:\Windows\system32\oobe\msoobe.exe
+<<<  Section end 2013/11/16 01:04:55.289
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [SetupInstallFromInfSection - Install.CP.1252]
+>>>  Section start 2013/11/16 01:04:55.289
+      cmd: C:\Windows\system32\oobe\msoobe.exe
+<<<  Section end 2013/11/16 01:04:55.289
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [SetupInstallFromInfSection - Ndis-Mp-AsyncMac]
+>>>  Section start 2013/11/16 01:05:51.612
+      cmd: "C:\Windows\System32\rundll32.exe" streamci,StreamingDeviceSetup {eeab7790-c514-11d1-b42b-00805fc1270e},asyncmac,{ad498944-762f-11d0-8dcb-00c04fc3358c},C:\Windows\INF\netrasa.inf,Ndis-Mp-AsyncMac
+<<<  Section end 2013/11/16 01:05:51.612
+<<<  [Exit status: SUCCESS]
+
+
+[Boot Session: 2013/11/16 01:06:31.375]
+
+>>>  [Build Driver List - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.725
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+     cpy: Policy is set to make all digital signatures equal.
+<<<  Section end 2013/11/16 01:18:18.925
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Select Best Driver - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.925
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:18.925
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REGISTERDEVICE - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.925
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:18.955
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_ALLOW_INSTALL - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.955
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:18.975
+<<<  [Exit status: SUCCESS (DI_DO_DEFAULT)]
+
+
+>>>  [DIF_INSTALLDEVICEFILES - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.975
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:18.975
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_REGISTER_COINSTALLERS - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.975
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:18.975
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_INSTALLINTERFACES - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.985
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:18.985
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_INSTALLDEVICE - ROOT\*ISATAP\0001]
+>>>  Section start 2013/11/16 01:18:18.985
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+     cci: NdisCoinst: Guid of the adapter is {253F94FB-4928-46A0-B6C4-3B752986F564}
+     cci: NdisCoinst: IfType 131, Characteristics 0x9, IsIrdaDevice 0, PhysicalMediaType 0, MediaType 15, IsBridge 0, FoundGuidInDownlevel 0, EnableDhcp 2
+     cci: NdisCoinst: Connection name is Local Area Connection* 9
+     cci: NdisCoinst: Allocated NetLuidIndex is 5
+     dvi: {Writing Device Properties}
+!    dvi: Device restart was skipped becasuse the DI_DONOTCALLCONFIGMG  flag was set.
+<<<  Section end 2013/11/16 01:18:19.537
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [DIF_DESTROYPRIVATEDATA]
+>>>  Section start 2013/11/16 01:18:19.547
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+<<<  Section end 2013/11/16 01:18:19.547
+<<<  [Exit status: SUCCESS]
+
+!    cci: !NCI: Op=BIND, Layer=NDIS, Upper=Tcpip6 Lower=\Device\{253F94FB-4928-46A0-B6C4-3B752986F564}, Error=00000019
+
+>>>  [Build Driver List - ROOT\*TEREDO\0000]
+>>>  Section start 2013/11/16 01:18:22.850
+      cmd: C:\Windows\system32\svchost.exe -k netsvcs
+     cpy: Policy is set to make all digital signatures equal.
+<<<  Section end 2013/11/16 01:18:23.060
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Select Best Driver - ROOT\*TEREDO\0000]
